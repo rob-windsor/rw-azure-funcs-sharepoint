@@ -2,7 +2,7 @@
 *.pptx
 
 # Snippets
-Snippets.txt
+Snippets*.txt
 
 # Azure Functions localsettings file
 local.settings.json
